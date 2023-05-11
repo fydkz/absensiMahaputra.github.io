@@ -1,4 +1,4 @@
-# Web-Absensi-Mahasiswa-UNINDRA V 1.0 BETA
+# Web-Absensi-Mahaputra V 1.0 BETA
 Ini adalah sistem absensi sederhana mahasiswa menggunakan Bootstrap dan PHP yang  bisa digunakan untuk Dosen, belum mempunyai Admin untuk mengolah datanya
 
 ## Website ini dibuat dengan :
@@ -14,10 +14,10 @@ Ini adalah sistem absensi sederhana mahasiswa menggunakan Bootstrap dan PHP yang
 ## Akses Login Dosen :
 
 
-email : bayututor@gmail.com 
-password : admin
+email : zean@gmail.com 
+password : zean
 ## Database : 
-akademi.sql
+akademik.sql
 
 ## Screenshoot :
 ![Screenshot (68)](https://user-images.githubusercontent.com/48480032/60427336-b1f4ae80-9c20-11e9-9d0c-8e3ca3cf6472.png)
