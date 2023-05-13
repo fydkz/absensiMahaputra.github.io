@@ -35,7 +35,7 @@ $user = mysqli_fetch_assoc($result);
         <div class="sidebar-brand-icon">
           <i class="fas fa-school"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">Mahaputra Absensi </div>
+        <div class="sidebar-brand-text mx-3">Mahaputra Absensi</div>
       </a>
 
       <hr class="sidebar-divider my-0">
